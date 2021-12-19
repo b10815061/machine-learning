@@ -16,3 +16,10 @@ in list , create on for anaconda and type in :
 
 "hidden": false
 ```
+#download cuda & cudnn for optimize gpu
+
+https://medium.com/ching-i/win10-%E5%AE%89%E8%A3%9D-cuda-cudnn-%E6%95%99%E5%AD%B8-c617b3b76deb
+
+!!open "nvidia control panel" by clicking windows button!!
+
+the version of cuda & cudnn must be the same.
